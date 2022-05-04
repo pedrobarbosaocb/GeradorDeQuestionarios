@@ -1,0 +1,11 @@
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\bin\Debug\AulaExercicio2.exe.config
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\bin\Debug\AulaExercicio2.exe
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\bin\Debug\AulaExercicio2.pdb
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.csproj.AssemblyReference.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.csproj.SuggestedBindingRedirects.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.Form1.resources
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.Properties.Resources.resources
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.csproj.GenerateResource.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.exe
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.pdb

@@ -1,0 +1,11 @@
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.csproj.AssemblyReference.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.csproj.SuggestedBindingRedirects.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\AulaExercicio2.Form1.resources
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.csproj.GenerateResource.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\bin\Debug\GeradorDeQuestionario.exe.config
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\bin\Debug\GeradorDeQuestionario.exe
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\bin\Debug\GeradorDeQuestionario.pdb
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.Properties.Resources.resources
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.exe
+E:\Cast\Projetos\CSharp-Intermed\AulaExercicio2\obj\Debug\GeradorDeQuestionario.pdb
