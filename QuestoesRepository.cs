@@ -12,7 +12,7 @@ namespace AulaExercicio2
 
         public void Initialize() {
             // As perguntas são retiradas da string <questao> sendo o formato:
-            //                                      pergunta | alternativaA | alternativaB | alternativaC | alternativaD | resposta(sendo 0 -> A, 1 -> B e assim por diante) • <próxima pergunta>
+            // pergunta | alternativaA | alternativaB | alternativaC | alternativaD | resposta(sendo 0 -> alternativaA, 1 -> alternativaB e assim por diante) • <próxima pergunta>
             string questao = "O que é C#? | Linguagem Orientada a Objetos | Markdown | Uma língua extrangeira | Dó bemol | 0 •" +
                 "Qual a cor do cavalo branco de napoleão? | Preto | Pedro | Cavalo | Branco??? kkk | 3 •" +
                 "Quanto é doi mais a quinta parte de 60? | 2/5 | 14 | 62/5 | Nda | 1 •" +
